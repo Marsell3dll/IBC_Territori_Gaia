@@ -2,9 +2,8 @@
 
 #                                                                         Hermes_setup_manual
 ##                                                        Easy installation of IBC Relayer(Hermes) Territori & Gaia
-![image](https://user-images.githubusercontent.com/93165931/181603616-e268fead-3a2e-431e-81d2-10cde2c165d6.png)
 
-
+![image](https://user-images.githubusercontent.com/93165931/181603886-9bfecd67-a06c-4850-83ac-027a5fd0bffa.png)
 
 
 ## Create .hermes folder
